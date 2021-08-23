@@ -1,0 +1,134 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.top-div{
+	background-color: #EAF6F6;
+	text-align: center;	
+	padding-top: 1.5rem;
+	color: #66BFBF;
+}
+.mid-div{
+	text-align: center;
+	line-height: 2;
+}
+.mountain{
+	width: 30%;
+}
+h1{
+	font-family: 'Dancing Script', cursive;
+	font-size: 5rem;
+}
+h2{
+	text-align: center;
+	font-family: cursive;
+	font-size: 2rem;
+	color: #66BFBF;
+}
+.cloud1{
+	position: relative;
+	left: 14em;
+}
+.cloud2{
+	position: absolute;
+	bottom: 14rem;
+	left: 16rem;
+}
+.cat{
+	margin-top: 6rem;
+	width: 15%;
+}
+p{
+	
+	font-family: cursive;
+	font-size: 1.2rem;
+	font-weight: 900;
+
+}
+.bot-div{
+	padding-top: 2rem;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.chillies{
+	margin-right: 20px;
+	width: 20%;
+	float: left;
+}
+.dots{
+	text-align: center;
+	color: darkgray;
+	font-size: 3rem;
+	font-weight: 900;
+	margin: 50px auto 50px auto;
+}
+.computer{
+	border-radius: 100%;
+	width: 20%;
+	float: right;
+	margin-left: 20px;
+}
+.bot-div div{
+	margin-bottom: 130px;
+}
+h3{
+	color: #11999E;
+	font-size: 1.8rem;
+	font-weight: 900;
+}
+.contact{
+	text-align: center;
+}
+.bar{
+	background-color: #66BFBF;
+	height: 100px;
+	margin-top: 100px;
+	margin
+	margin-bottom: 0;
+}
+.btn {
+  background: #34d9b0;
+  background-image: -webkit-linear-gradient(top, #34d9b0, #2b4eb8);
+  background-image: -moz-linear-gradient(top, #34d9b0, #2b4eb8);
+  background-image: -ms-linear-gradient(top, #34d9b0, #2b4eb8);
+  background-image: -o-linear-gradient(top, #34d9b0, #2b4eb8);
+  background-image: linear-gradient(to bottom, #34d9b0, #2b4eb8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 9px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+::-webkit-scrollbar{
+	width: 14px;
+}
+::-webkit-scrollbar-track{
+	background-color: #EAF6F6 ;
+}
+::-webkit-scrollbar-thumb{
+	background-color: #66BFBF;
+}
+::-webkit-scrollbar-thumb:hover{
+	background-color: #66BF00;
+}
+.bottom-text{
+	text-align: center;
+	padding-top: 20px;
+	color: whitesmoke;
+
+}
